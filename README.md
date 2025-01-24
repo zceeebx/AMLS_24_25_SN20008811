@@ -4,29 +4,19 @@
 This project classifies medical images from the BreastMNIST and BloodMNIST datasets using various machine learning models. The implemented models include Logistic Regression, SVM, Decision Tree, and Random Forest. The project structure is modular, allowing for easy management and extension.
 
 ## Project Structure
-AMLS_24_25_SN20008811
-A
-││├── pycache 					# Cache files for Python modules 
-
-││├── Logistic_Regression.py 	# Logistic Regression implementation 
-
-││└── SVM.py 					# Support Vector Machine implementation 
-
-│├── B 							# Folder containing Decision Tree and Random Forest implementations 
-
-││├── pycache 					# Cache files for Python modules 
-
-││├── Decision_Tree.py 			# Decision Tree implementation 
-
-││└── Random_Forest.py 		# Random Forest implementation 
-
-│├── Datasets 					# Folder to store BreastMNIST and BloodMNIST datasets (empty by default. place datasets here manually)
-
-││└── README.txt				# File instruction
-
-│├── main.py 					# Main script to execute the classification tasks 
-
-│├── README.md 				# Project documentation (this file)
+# ├── AMLS_24_25_SN20008811
+# │├── A 							# Folder containing Logistic Regression and SVM implementations 
+# ││├── pycache 					# Cache files for Python modules 
+# ││├── Logistic_Regression.py 	# Logistic Regression implementation 
+# ││└── SVM.py 					# Support Vector Machine implementation 
+# │├── B 							# Folder containing Decision Tree and Random Forest implementations 
+# ││├── pycache 					# Cache files for Python modules 
+# ││├── Decision_Tree.py 			# Decision Tree implementation 
+# ││└── Random_Forest.py 		# Random Forest implementation 
+# │├── Datasets 					# Folder to store BreastMNIST and BloodMNIST datasets (empty by default. place datasets here manually)
+# ││└── README.txt				# File instruction
+# │├── main.py 					# Main script to execute the classification tasks 
+# │├── README.txt 				# Project documentation (this file)
 
 
 ## File Roles
