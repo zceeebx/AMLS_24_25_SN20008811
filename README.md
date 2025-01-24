@@ -16,7 +16,7 @@ This project classifies medical images from the BreastMNIST and BloodMNIST datas
 │├── Datasets 					# Folder to store BreastMNIST and BloodMNIST datasets (empty by default. place datasets here manually)
 ││└── README.txt				# File instruction
 │├── main.py 					# Main script to execute the classification tasks 
-│├── README.txt 				# Project documentation (this file)
+│├── README.md 				# Project documentation (this file)
 
 
 ## File Roles
