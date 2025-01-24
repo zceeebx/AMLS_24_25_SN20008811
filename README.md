@@ -5,8 +5,7 @@ This project classifies medical images from the BreastMNIST and BloodMNIST datas
 
 ## Project Structure
 AMLS_24_25_SN20008811
-A 							# Folder containing Logistic Regression and SVM implementations 
-
+A
 ││├── pycache 					# Cache files for Python modules 
 
 ││├── Logistic_Regression.py 	# Logistic Regression implementation 
