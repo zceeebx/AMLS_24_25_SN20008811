@@ -4,9 +4,7 @@
 This project classifies medical images from the BreastMNIST and BloodMNIST datasets using various machine learning models. The implemented models include Logistic Regression, SVM, Decision Tree, and Random Forest. The project structure is modular, allowing for easy management and extension.
 
 ## Project Structure
-├── AMLS_24_25_SN20008811
-
-│├── A 							# Folder containing Logistic Regression and SVM implementations 
+├── AMLS_24_25_SN20008811│├── A 							# Folder containing Logistic Regression and SVM implementations 
 ││├── pycache 					# Cache files for Python modules 
 ││├── Logistic_Regression.py 	# Logistic Regression implementation 
 ││└── SVM.py 					# Support Vector Machine implementation 
